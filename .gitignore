@@ -19,3 +19,6 @@ wheels/
 /src/resources_rc.py
 /qt_lupdate.json
 /res/loc/*.qm
+
+# Profiling results (profile.bat)
+/profile_result.pstats
