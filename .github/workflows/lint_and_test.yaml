@@ -38,6 +38,6 @@ jobs:
 
       - name: Run Pyrefly
         run: uv run pyrefly check --min-severity warn
-        
+
       - name: Run Pytest
         run: uv run pytest
