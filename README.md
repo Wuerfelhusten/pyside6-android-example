@@ -10,6 +10,7 @@ Requirements: [uv](https://docs.astral.sh/uv/getting-started/installation/)
 
 ```
 git clone https://github.com/Cutleast/pyside6-android-example --recurse-submodules
+cd pyside6-android-example
 run.bat
 ```
 
